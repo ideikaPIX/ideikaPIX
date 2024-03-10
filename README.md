@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Platon
 ==============================================================================================================================
 
-Hi, I am a developer in the Rust language. I mainly focus on developing desktop applications, as well as software development and sometimes design
+Hi, I am a backend developer. I mainly focus on developing desktop applications, as well as software development and sometimes design
 
-*   🌍  I'm based in Russia/Moscow
+*  I'm based in Russia/Moscow
 
 <a href="https://www.twitch.tv/platon200kl" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/platon200kl?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
