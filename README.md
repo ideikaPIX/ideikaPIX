@@ -5,8 +5,6 @@ Hi, I am a backend developer. I mainly focus on developing desktop applications,
 
 *  I'm based in Russia/Moscow
 
-<a href="https://www.twitch.tv/platon200kl" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitch/status/platon200kl?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 
 
