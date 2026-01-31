@@ -1,4 +1,4 @@
-Hi, I'm Platon
+Hi, I'm Platon (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ
 
 Designer, developer, art director, product manager.
 
