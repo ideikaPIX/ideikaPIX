@@ -30,10 +30,4 @@ Designer, developer, art director, product manager.
 Art director and product manager of multiple projects related to Minecraft and FunPay.  
 Experience in product development from concept to release.
 
----
-
-## Activity
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ideikaPIX&theme=github-dark&hide_border=true" />
-</p>
+<img src="./VID_20260201_015015_310-ezgif.com-video-to-gif-converter.gif" width="400" />
