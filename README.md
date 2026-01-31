@@ -31,3 +31,7 @@ Art director and product manager of multiple projects related to Minecraft and F
 Experience in product development from concept to release.
 
 <img src="./VID_20260201_015015_310-ezgif.com-video-to-gif-converter.gif" width="400" />
+
+telegram 
+
+╰┈➤ https://t.me/CULT200
