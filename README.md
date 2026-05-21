@@ -12,7 +12,7 @@ Designer, developer, art director, product manager.
 </p>
 
 <p align="left">
- <img src="https://img.shields.io/badge/TouchDesigner-000000?style=for-the-badge&logo=opengl&logoColor=white" />
+ <img src="https://img.shields.io/badge/TouchDesigner-000000?style=for-the-badge&logoColor=white" />
 </p>
 
 ### Development
@@ -33,5 +33,4 @@ Experience in product development from concept to release.
 <img src="./VID_20260201_015015_310-ezgif.com-video-to-gif-converter.gif" width="400" />
 
 telegram 
-
 ╰┈➤ https://t.me/CULT200
