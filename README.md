@@ -1,6 +1,6 @@
 Hi, I'm Platon (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ
 
-Designer, developer, art director, product manager.
+Multidisc. designer, developer, art-dir., product manager.
 
 ---
 
@@ -8,7 +8,7 @@ Designer, developer, art director, product manager.
 
 ### Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,ai,ae" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,ai," />
 </p>
 
 <p align="left">
@@ -17,7 +17,7 @@ Designer, developer, art director, product manager.
 
 ### Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,python,c,java" />
+  <img src="https://skillicons.dev/icons?i=rust,c,java" />
 </p>
 
 <p align="left">
@@ -25,10 +25,6 @@ Designer, developer, art director, product manager.
 </p>
 
 ---
-
-## About
-Art director and product manager of multiple projects related to Minecraft and FunPay.  
-Experience in product development from concept to release.
 
 <img src="./VID_20260201_015015_310-ezgif.com-video-to-gif-converter.gif" width="400" />
 
